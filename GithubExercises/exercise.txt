@@ -1,0 +1,51 @@
+Exercise: Solve the Puzzle
+You are required to create a python program to solve a math puzzle. Follow these steps to write your solution:
+Start with Two Numbers: 	(2 marks)
+Think of two numbers, 
+the first number should represent the base of a calculation (e.g., 8), 
+the second number should represent how many times this base should be multiplied by itself (exponential).
+Store these numbers in variables with meaningful names.
+Calculate the Power:		(1 mark)	
+Multiply the first number by itself, based on the second number, and store the result in another variable.
+Work with Another Number:`(2 marks)
+Choose a third number that is larger than your first number (e.g., 50).
+Divide this large number by the first number and save both the quotient (ignoring the remainder) and the exact division result (including decimals) in two separate variables.
+Find the Final Value:		(1 mark)
+Add all your results together (the power result, the quotient, and the exact division result).
+Store this final value in a variable.
+Display the Results:		(2 marks)
+Print the final value.
+Print the type of the final value to check what kind of data it is.
+
+Hints:
+Think carefully about the operations you need to use for repeated multiplication, whole-number division, and exact division.
+Choose clear and meaningful names for your variables so it's easy to understand your code.
+
+
+Follow-Up Task: Submit Your Solution via GitHub	(2 marks)
+Once you’ve completed the coding assignment, follow these steps to submit your work:
+Clone the Repository:
+Clone the repository to your local computer so you can work on the files. https://github.com/eria-developer/lesson-examples
+Create a New Branch:
+Inside the repository, create a new branch for your work.
+Name the branch clearly, such as one that includes your name 
+Add Your Solution:
+Add your Python file with the solution to the repository. Use a meaningful file name.
+Save your changes and prepare them for submission.
+Commit Your Changes:
+Write a clear message explaining what changes you made.
+Make sure your message is professional and describes the work you’ve done.
+Push Your Branch to GitHub:
+Push the branch you created, along with your changes, to the repository on GitHub.
+Create a Pull Request:
+Go to the repository on GitHub.
+Create a pull request for your branch.
+Write a clear and descriptive title and add a short explanation of what your code does.
+Submit the Pull Request:
+Once the pull request is ready, submit it for review.
+Upload a document:
+Go back to your portal, submit a document having your full name and the name of the branch you created
+
+
+
+
